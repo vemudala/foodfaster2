@@ -1,0 +1,23 @@
+http://localhost/websites/foodfasters/API/home/transactions
+
+
+contains order transactions details like order id , transaction id, payment type , total amount
+
+
+http://localhost/websites/foodfasters/API/home/user_orders
+
+showing customer orders , based on customer login id, in customer panel
+
+
+http://localhost/websites/foodfasters/API/home/restaurant_orders
+
+
+showing Restuarant orders , based on restaurant login id, in restaurant panel
+
+
+
+
+
+
+http://localhost/websites/foodfasters/API/home/user_cart
+displaying cart items based on user id..
